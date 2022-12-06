@@ -61,6 +61,9 @@ a{
     background-color:#008000;
     border-radius: 25px;
    }
+   a:hover{
+    background-color:#7a797b;
+   }
 
    footer{
     width: 600px;
